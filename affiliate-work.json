@@ -13,7 +13,8 @@
     "m1_discount_code": "zomato",
     "ring_active": true,
     "ring_discount_text": "10% off",
-    "ring_discount_code": "zomato"
+    "ring_discount_code": "zomato",
+    "brandColor": "#E23744"
   },
   {
     "name": "Porter",
@@ -29,7 +30,8 @@
     "m1_discount_code": "porter",
     "ring_active": true,
     "ring_discount_text": "10% off",
-    "ring_discount_code": "porter"
+    "ring_discount_code": "porter",
+    "brandColor": "#0A74DA"
   },
   {
     "name": "Perfios",
@@ -45,7 +47,8 @@
     "m1_discount_code": "perfios",
     "ring_active": true,
     "ring_discount_text": "10% off",
-    "ring_discount_code": "perfios"
+    "ring_discount_code": "perfios",
+    "brandColor": "#004080"
   },
   {
     "name": "Krutrim",
@@ -61,7 +64,8 @@
     "m1_discount_code": "krutrim",
     "ring_active": true,
     "ring_discount_text": "10% off",
-    "ring_discount_code": "krutrim"
+    "ring_discount_code": "krutrim",
+    "brandColor": "#009688"
   },
   {
     "name": "InCred",
@@ -77,7 +81,8 @@
     "m1_discount_code": "incred",
     "ring_active": true,
     "ring_discount_text": "10% off",
-    "ring_discount_code": "incred"
+    "ring_discount_code": "incred",
+    "brandColor": "#FF6F61"
   },
   {
     "name": "Zepto",
@@ -93,7 +98,8 @@
     "m1_discount_code": "zepto",
     "ring_active": true,
     "ring_discount_text": "10% off",
-    "ring_discount_code": "zepto"
+    "ring_discount_code": "zepto",
+    "brandColor": "#2A2A2A"
   },
   {
     "name": "Molbio Diagnostics",
@@ -109,7 +115,8 @@
     "m1_discount_code": "molbio",
     "ring_active": true,
     "ring_discount_text": "10% off",
-    "ring_discount_code": "molbio"
+    "ring_discount_code": "molbio",
+    "brandColor": "#F37021"
   },
   {
     "name": "Shiprocket",
@@ -125,7 +132,8 @@
     "m1_discount_code": "shiprocket",
     "ring_active": true,
     "ring_discount_text": "10% off",
-    "ring_discount_code": "shiprocket"
+    "ring_discount_code": "shiprocket",
+    "brandColor": "#8D6E63"
   },
   {
     "name": "OneCard",
@@ -141,7 +149,8 @@
     "m1_discount_code": "onecard",
     "ring_active": true,
     "ring_discount_text": "10% off",
-    "ring_discount_code": "onecard"
+    "ring_discount_code": "onecard",
+    "brandColor": "#674172"
   },
   {
     "name": "LeadSquared",
@@ -157,7 +166,8 @@
     "m1_discount_code": "leadsquared",
     "ring_active": true,
     "ring_discount_text": "10% off",
-    "ring_discount_code": "leadsquared"
+    "ring_discount_code": "leadsquared",
+    "brandColor": "#0D47A1"
   },
   {
     "name": "PhysicsWallah",
@@ -173,7 +183,8 @@
     "m1_discount_code": "physicswallah",
     "ring_active": true,
     "ring_discount_text": "10% off",
-    "ring_discount_code": "physicswallah"
+    "ring_discount_code": "physicswallah",
+    "brandColor": "#303F9F"
   },
   {
     "name": "Open Financial Technologies",
@@ -189,7 +200,8 @@
     "m1_discount_code": "openfinancial",
     "ring_active": true,
     "ring_discount_text": "10% off",
-    "ring_discount_code": "openfinancial"
+    "ring_discount_code": "openfinancial",
+    "brandColor": "#FFD700"
   },
   {
     "name": "Games24x7",
@@ -205,7 +217,8 @@
     "m1_discount_code": "games24x7",
     "ring_active": true,
     "ring_discount_text": "10% off",
-    "ring_discount_code": "games24x7"
+    "ring_discount_code": "games24x7",
+    "brandColor": "#E91E63"
   },
   {
     "name": "Oxyzo Financial Services",
@@ -221,7 +234,8 @@
     "m1_discount_code": "oxyzo",
     "ring_active": true,
     "ring_discount_text": "10% off",
-    "ring_discount_code": "oxyzo"
+    "ring_discount_code": "oxyzo",
+    "brandColor": "#8BC34A"
   },
   {
     "name": "Amagi Media Labs",
@@ -237,7 +251,8 @@
     "m1_discount_code": "amagimedia",
     "ring_active": true,
     "ring_discount_text": "10% off",
-    "ring_discount_code": "amagimedia"
+    "ring_discount_code": "amagimedia",
+    "brandColor": "#03A9F4"
   },
   {
     "name": "CredAvenue",
@@ -253,6 +268,7 @@
     "m1_discount_code": "credavenue",
     "ring_active": true,
     "ring_discount_text": "10% off",
-    "ring_discount_code": "credavenue"
+    "ring_discount_code": "credavenue",
+    "brandColor": "#4CAF50"
   }
 ]
