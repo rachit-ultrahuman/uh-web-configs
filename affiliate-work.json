@@ -1,5 +1,22 @@
 [
   {
+    "name": "Ultrahuman",
+    "code": "ultrahuman",
+    "image": "https://www.ultrahuman.com/ultraIcon.svg",
+    "subtitle": "",
+    "affiliate_code": "ultrahuman",
+    "email_template": "@ultrahuman.com",
+    "title": "Biohack Your Body",
+    "cta_title": "Get Ultrahuman exclusive 10% off",
+    "m1_active": true,
+    "m1_discount_text": "10% off",
+    "m1_discount_code": "uh_test_m1",
+    "ring_active": true,
+    "ring_discount_text": "10% off",
+    "ring_discount_code": "uh_test_ring",
+    "brandColor": "#E23744"
+  },
+  {
     "name": "Zomato",
     "code": "zomato",
     "image": "https://public-web-assets.ultrahuman.com/web_v2/illustrations/zomatoLogo.svg",
