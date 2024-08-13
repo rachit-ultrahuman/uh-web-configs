@@ -26,11 +26,11 @@
     "title": "Better food for more people",
     "cta_title": "Get Zomato exclusive 10% off",
     "m1_active": true,
-    "m1_discount_text": "10% off",
-    "m1_discount_code": "zomato",
+    "m1_discount_text": null,
+    "m1_discount_code": null,
     "ring_active": true,
-    "ring_discount_text": "10% off",
-    "ring_discount_code": "zomato",
+    "ring_discount_text": "Get 20% off",
+    "ring_discount_code": "ZOM20",
     "brandColor": "#E23744"
   },
   {
